@@ -11,8 +11,8 @@ const int right_pwm_pin = 5;
 const int right_dir_pin = A0;
 const int left_pwm_pin = 6;
 const int left_dir_pin = A1;
-const bool left_fwd = true;
-const bool right_fwd = false;
+const bool left_fwd = true;  //변수명 이상함 주의
+const bool right_fwd = false;  //변수명 이상함 주의 22
 
 // Default_speed
 const int default_vel = 15;
