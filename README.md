@@ -1,6 +1,4 @@
-﻿# 2022-seoul-hardware-hackathon
-
-## 2022 서울하드웨어해커톤 우수상
+﻿# 2022-seoul-hardware-hackathon 우수상
 > 주제: 언택트 시대에 사회적 약자의 문제를 해결하는 ICT 기술
 
 + Take Car 소개
